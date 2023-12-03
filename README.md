@@ -21,4 +21,4 @@ Demo of single group navigation is here:
 <img src="https://github.com/XiaohanYE99/DiffRVO/master/single2.avi">
 
 Demo of multi group navigation is here:
-<img src="https://github.com/XiaohanYE99/DiffRVO/master/multi0.avi">
+<img src="https://github.com/XiaohanYE99/DiffRVO/blob/master/multi0.avi">
