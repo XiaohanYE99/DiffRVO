@@ -17,9 +17,12 @@ To run the multi group navigation example, use the following commands:
 python mbmg_train.py
 ```
 Demo of single group navigation is here:
-<img src="https://github.com/XiaohanYE99/DiffRVO/master/single1.avi">
-<img src="https://github.com/XiaohanYE99/DiffRVO/master/single2.avi">
+
+https://github.com/XiaohanYE99/DiffRVO/assets/49114549/f0cc6fd5-1420-4eb1-a89d-218688b78057
+https://github.com/XiaohanYE99/DiffRVO/assets/49114549/d7a5e372-4d47-48f0-8225-f1595219a500
 
 Demo of multi group navigation is here:
-![image](https://github.com/XiaohanYE99/DiffRVO/blob/master/multi0.avi)
+https://github.com/XiaohanYE99/DiffRVO/assets/49114549/3963dda5-731b-4799-a2d0-0130b9fdc8f4
+
+
 
